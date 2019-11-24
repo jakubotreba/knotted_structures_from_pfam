@@ -34,26 +34,32 @@ for i in range(len(knotteds)):
 		elif '"/protein/' in href[0]:
 			if href[1].split('/')[2].split('>')[0] not in good[family]:
 				good[family].append(href[1].split('/')[2].split('"')[0])
+				ofile.write(str(href[1].split('/')[2].split('"')[0].lower()))
 				for j in range(len(knotprot)):
 					if href[1].split('/')[2].split('"')[0].lower() in knotprot[j]:
 						knots=knotprot[j].split(';')[-1]
 						typ=knotprot[j].split(';')[-2]
-						ofile.write(str(href[1].split('/')[2].split('"')[0].lower())+'\t'+typ+'\t'+knots+'\n')
+						ofile.write('\t'+typ+'\t'+knots+'\n')
+				ofile.write('\n')		
 		elif '"/structure/viewer' in href[0]:
 			if href[0].split('id=')[1].split('"')[0] not in good[family]:
 				good[family].append(href[0].split('id=')[1].split('"')[0])
+				ofile.write(str(href[0].split('id=')[1].split('"')[0].lower()))
 				for j in range(len(knotprot)):
 					if href[0].split('id=')[1].split('"')[0].lower() in knotprot[j]:
 						knots=knotprot[j].split(';')[-1]
 						typ=knotprot[j].split(';')[-2]
-						ofile.write(str(href[0].split('id=')[1].split('"')[0].lower())+'\t'+typ+'\t'+knots+'\n')
+						ofile.write('\t'+typ+'\t'+knots+'\n')
+				ofile.write('\n')		
 		elif '"/structure/viewer' in href[1]:
 			if href[1].split('id=')[1].split('"')[0] not in good[family]:
 				good[family].append(href[1].split('id=')[1].split('"')[0])
+				ofile.write(str(href[1].split('id=')[1].split('"')[0].lower()))
 				for j in range(len(knotprot)):
 					if href[1].split('id=')[1].split('"')[0].lower() in knotprot[j]:
 						knots=knotprot[j].split(';')[-1]
 						typ=knotprot[j].split(';')[-2]
-						ofile.write(str(href[1].split('id=')[1].split('"')[0].lower())+'\t'+typ+'\t'+knots+'\n')
+						ofile.write('\t'+typ+'\t'+knots+'\n')
+				ofile.write('\n')		
 			
 ofile.close()
