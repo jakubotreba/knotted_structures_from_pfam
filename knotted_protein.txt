@@ -1,0 +1,1694 @@
+#pdbid|chain|is S/K-not|(slip)knot types;
+6g3q;A;S;+3.1
+6g3v;A;S;+3.1
+6eeo;A;S;+3.1
+6eda;A;K;+3.1
+6ecz;A;S;+3.1
+6eeh;A;S;+3.1
+6eea;A;K;+3.1
+6ebe;A;S;+3.1
+2h47;B;K;
+2h3x;B;K;
+1mg3;B;K;
+2mad;L;K;
+1mg2;B;K;
+2j57;K;K;
+2mta;L;K;
+2j55;L;K;
+2j56;L;K;
+4fa1;C;K;
+4k3i;C;K;
+2iaa;B;K;
+4l3g;C;K;
+2gc4;B;K;
+3l4o;C;K;
+2gc7;B;K;
+2bbk;L;K;
+2iup;D;K;
+2agx;D;K;
+2hj4;D;K;
+2hjb;D;K;
+2agy;D;K;
+2agl;D;K;
+2hxc;D;K;
+2agw;D;K;
+2ah0;D;K;
+2ah1;D;K;
+2iur;D;K;
+2i0s;D;K;
+2i0t;D;K;
+2q7q;D;K;
+2hkr;D;K;
+2hkm;D;K;
+2iuq;D;K;
+2ok4;D;K;
+2ojy;D;K;
+1mda;M;K;
+5thi;A;S;+3.1
+3iqk;A;K;+3.1
+4ygl;A;S;+3.1
+1bnn;A;S;+3.1
+1ttm;A;S;+3.1
+1azm;A;S;+3.1
+5fl5;A;K;+3.1
+5nea;A;S;+3.1
+1bv3;A;S;+3.1
+6b59;A;S;+3.1
+5e2m;A;S;+3.1
+4qsj;A;S;+3.1
+1rzb;A;S;+3.1
+1cak;A;K;+3.1
+5ohh;A;S;+3.1
+5n25;A;S;+3.1
+12ca;A;S;+3.1
+4qiz;A;S;+3.1
+4mlt;A;K;+3.1
+5eij;A;K;+3.1
+4r59;A;K;+3.1
+4mdg;A;K;+3.1
+4cnv;A;S;+3.1
+4bcw;A;S;+3.1
+3s75;B;S;+3.1
+3mnu;A;K;+3.1
+2nno;A;K;+3.1
+3dc3;A;S;+3.1
+1cao;A;K;+3.1
+1th9;A;S;+3.1
+4gl1;X;S;+3.1
+3v2j;A;K;+3.1
+6fe2;A;S;+3.1
+4z0q;A;S;+3.1
+4qj0;A;S;+3.1
+4qk2;A;S;+3.1
+3kon;A;K;+3.1
+4m2r;A;K;+3.1
+4bf1;A;S;+3.1
+3d92;A;S;+3.1
+2nwo;A;K;+3.1
+2f14;A;S;+3.1
+2hfw;A;S;+3.1
+5ogj;A;S;+3.1
+5nee;A;S;+3.1
+5msa;A;K;+3.1
+5ljq;A;S;+3.1
+4n0x;B;S;+3.1
+3mna;A;S;+3.1
+1yve;I;K;4.1 +3.1
+4knj;A;S;+3.1
+1ccs;A;S;+3.1
+5bu6;A;S;+3.1
+4q7p;A;S;+3.1
+1bn1;A;S;+3.1
+4k0z;A;S;+3.1
+5flp;A;K;+3.1
+5flr;A;K;+3.1
+4xz5;A;K;+3.1
+5fnl;A;S;+3.1
+4yxi;A;S;+3.1
+2hoc;A;S;+3.1
+1cni;A;S;+3.1
+3ml5;A;K;+3.1
+1qmg;A;S;4.1 +3.1
+3wbh;A;S;+3.1
+4qsb;A;K;+3.1
+5ehe;A;S;+3.1
+5ty1;A;K;+3.1
+1j9w;A;S;+3.1
+1cnj;A;K;+3.1
+3mhc;A;K;+3.1
+3mzc;A;S;+3.1
+4k0s;A;S;+3.1
+5clu;A;S;+3.1
+4k0t;A;S;+3.1
+3w6h;A;S;+3.1
+5fnh;A;S;+3.1
+1if4;A;S;+3.1
+5fls;A;K;+3.1
+1i9n;A;S;+3.1
+1if6;A;S;+3.1
+1g46;A;S;+3.1
+6eki;A;S;+3.1
+3igp;A;S;+3.1
+5umc;A;K;+3.1
+5ogp;A;S;+3.1
+5tt3;A;K;+3.1
+5g01;A;K;+3.1
+4xix;A;S;+3.1
+4ywp;A;K;+3.1
+4q09;A;S;+3.1
+4e3h;A;S;+3.1
+4m2w;A;S;+3.1
+4q08;A;S;+3.1
+4mdl;A;K;+3.1
+4q07;A;S;+3.1
+3r17;B;S;+3.1
+4fpt;A;K;+3.1
+4ca2;A;S;+3.1
+3ieo;A;S;+3.1
+3s72;B;K;+3.1
+3nj9;A;S;+3.1
+2cbd;A;S;+3.1
+3f4x;A;S;+3.1
+2weh;A;S;+3.1
+3daz;A;K;+3.1
+2nnv;A;S;+3.1
+2fw4;A;S;+3.1
+3dc9;A;S;+3.1
+1g3z;A;S;+3.1
+1zsc;A;S;+3.1
+1bn3;A;S;+3.1
+2cba;A;S;+3.1
+1rj5;A;S;+3.1
+2eu3;A;S;+3.1
+1bnq;A;S;+3.1
+3mnk;A;S;+3.1
+2vvb;X;K;+3.1
+5jep;B;S;+3.1
+4qk3;A;S;+3.1
+5ekh;A;S;+3.1
+4xe1;A;S;+3.1
+5eh5;A;S;+3.1
+4z1e;A;K;+3.1
+4rn4;A;S;+3.1
+4pq7;A;S;+3.1
+3kkx;A;K;+3.1
+4kp5;A;K;+3.1
+4l5v;A;K;+3.1
+3u3a;X;K;+3.1
+3hkn;A;K;+3.1
+3hlj;A;S;+3.1
+3oik;A;S;+3.1
+5tfx;A;K;+3.1
+3mnj;A;S;+3.1
+2fnn;A;K;+3.1
+5jdf;A;K;+3.1
+2x7s;A;S;+3.1
+1ugd;A;K;+3.1
+4mty;A;S;+3.1
+1hcb;A;S;+3.1
+3mni;A;S;+3.1
+5fdi;A;S;+3.1
+2nng;A;S;+3.1
+6b5a;A;S;+3.1
+5kgn;A;S;+3.1
+3p3j;A;K;+3.1
+5jes;B;K;+3.1
+3gz0;A;K;+3.1
+1cve;A;S;+3.1
+3w6i;A;S;+3.1
+4qk1;A;K;+3.1
+5flo;A;K;+3.1
+5th4;A;K;+3.1
+2foq;A;S;+3.1
+5bu6;B;S;+3.1
+1bn4;A;S;+3.1
+4q49;A;S;+3.1
+1yo0;A;S;+3.1
+4zwz;A;S;+3.1
+1hea;A;S;+3.1
+5cjf;A;K;+3.1
+1z97;A;K;+3.1
+3ryv;B;S;+3.1
+4g7a;A;S;+3.1
+5sz5;A;K;+3.1
+1fsq;A;K;+3.1
+5txy;A;S;+3.1
+1te3;X;S;+3.1
+3ryj;B;K;+3.1
+4k13;A;S;+3.1
+1fql;A;S;+3.1
+1hug;A;S;+3.1
+3rz1;B;S;+3.1
+3fe4;A;S;+3.1
+3bl1;A;S;+3.1
+3p44;A;S;+3.1
+1ze8;A;K;+3.1
+4z1n;A;S;+3.1
+4ygn;A;K;+3.1
+5lmd;A;K;+3.1
+1lgd;A;S;+3.1
+7ca2;A;S;+3.1
+1huh;A;S;+3.1
+5fnj;A;S;+3.1
+6equ;A;S;+3.1
+5jgs;B;K;+3.1
+1ydd;A;S;+3.1
+2gd8;A;S;+3.1
+3mwo;A;S;+3.1
+5e2s;A;S;+3.1
+1cvb;A;S;+3.1
+3fr7;A;K;4.1 +3.1
+4dz7;A;S;+3.1
+4q81;A;S;+3.1
+1dca;A;S;+3.1
+4hey;A;S;+3.1
+4kp8;A;K;+3.1
+1g45;A;S;+3.1
+4z1k;A;K;+3.1
+1bnt;A;S;+3.1
+1mua;A;S;+3.1
+4jss;A;S;+3.1
+2cab;A;S;+3.1
+4js6;A;S;+3.1
+5ehv;A;S;+3.1
+2vva;X;S;+3.1
+1bzm;A;S;+3.1
+4q6d;A;S;+3.1
+4qrv;A;K;-3.1 -3.1 -3.1
+5aml;A;S;+3.1
+1am6;A;S;+3.1
+5eh8;A;S;+3.1
+5e2n;A;S;+3.1
+2pou;A;K;+3.1
+3dcs;A;S;+3.1
+1g53;A;S;+3.1
+5fl6;A;S;+3.1
+4lhi;A;S;+3.1
+3oyq;A;S;+3.1
+1eou;A;S;+3.1
+6b00;A;K;+3.1
+4zao;A;S;+3.1
+5u0e;A;K;+3.1
+1oq5;A;S;+3.1
+4frc;A;S;+3.1
+4yx4;A;S;+3.1
+5fni;A;S;+3.1
+4r5b;A;S;+3.1
+1ray;A;S;+3.1
+1cai;A;S;+3.1
+3m5t;A;S;+3.1
+4pxx;A;S;+3.1
+5g0b;A;K;+3.1
+4e3d;A;S;+3.1
+5ll9;A;K;+3.1
+3n2p;A;S;+3.1
+3t5z;A;S;+3.1
+4m2u;A;K;+3.1
+1dcb;A;S;+3.1
+4r5a;A;K;+3.1
+3s9t;A;S;+3.1
+6bcc;A;S;+3.1
+5dsj;A;S;+3.1
+1g48;A;S;+3.1
+5ti0;A;S;+3.1
+2fnk;A;K;+3.1
+3hkq;A;S;+3.1
+5jn7;A;S;+3.1
+5fnm;A;K;+3.1
+4qjw;A;S;+3.1
+4q7v;A;S;+3.1
+1cay;A;S;+3.1
+4qsi;A;S;+3.1
+3sap;A;S;+3.1
+4iwz;A;K;+3.1
+1cct;A;S;+3.1
+4qtl;A;S;+3.1
+3m2z;A;S;+3.1
+4ht2;A;K;+3.1
+3s74;B;K;+3.1
+3v7x;A;K;+3.1
+3p5l;A;S;+3.1
+3dv7;A;K;+3.1
+4kni;A;S;+3.1
+1bnu;A;S;+3.1
+4mlx;A;S;+3.1
+5jg5;B;S;+3.1
+3sbh;A;S;+3.1
+1cal;A;S;+3.1
+4qjm;A;K;+3.1
+5jn1;A;S;+3.1
+6bbs;A;K;+3.1
+3ks3;A;S;+3.1
+4cnr;A;S;+3.1
+3mmf;A;S;+3.1
+2q1b;A;S;+3.1
+1okm;A;S;+3.1
+3s71;B;S;+3.1
+3dcw;A;S;+3.1
+4idr;X;S;+3.1
+3m1j;A;S;+3.1
+3hs4;A;S;+3.1
+6cjv;A;S;+3.1
+4rux;A;S;+3.1
+5jgt;B;S;+3.1
+5dsi;A;S;+3.1
+1rj6;A;S;+3.1
+4mdm;A;K;+3.1
+3n0n;A;K;+3.1
+4q8z;A;K;+3.1
+5llc;A;S;+3.1
+3dd0;A;S;+3.1
+4fl7;A;K;+3.1
+4mo8;A;S;+3.1
+3s78;B;S;+3.1
+3v3j;A;S;+3.1
+5fdc;A;K;+3.1
+1g6v;A;S;+3.1
+2it4;A;S;+3.1
+5vgy;A;K;+3.1
+2wd3;A;K;+3.1
+5a6h;A;S;+3.1
+1koq;A;S;+3.1
+1cvh;A;S;+3.1
+4qy3;A;S;+3.1
+5uln;A;S;+3.1
+4g0c;A;S;+3.1
+5u0d;A;S;+3.1
+4e5q;A;K;+3.1
+1v9i;C;S;+3.1
+4wl4;A;K;+3.1
+1h9n;A;S;+3.1
+3dvd;A;S;+3.1
+4zx1;A;S;+3.1
+5u0f;A;K;+3.1
+4kuy;A;K;+3.1
+3hku;A;S;+3.1
+4ito;A;S;+3.1
+3v3h;B;S;+3.1
+3v2m;A;K;+3.1
+5bnl;A;S;+3.1
+1g0f;A;K;+3.1
+3e2d;A;S;+3.1
+4ilx;A;S;+3.1
+2pov;A;S;+3.1
+5tya;A;K;+3.1
+5n1r;A;S;+3.1
+5jq0;A;S;+3.1
+2hnc;A;S;+3.1
+4pyx;A;K;+3.1
+2fmz;A;S;+3.1
+5cac;A;S;+3.1
+5flq;A;S;+3.1
+5ca2;A;S;+3.1
+1t9n;A;S;+3.1
+6fe1;A;K;+3.1
+4q8y;A;S;+3.1
+5o07;A;S;+3.1
+3qyk;A;S;+3.1
+5n1s;A;S;+3.1
+5e2r;A;S;+3.1
+1caz;A;S;+3.1
+3ryx;B;K;+3.1
+4yxu;A;S;+3.1
+4q78;A;S;+3.1
+4rh2;A;S;+3.1
+1raz;A;K;+3.1
+4e4a;A;K;+3.1
+1bnw;A;S;+3.1
+4jsa;A;S;+3.1
+1xq0;A;S;+3.1
+2fnm;A;K;+3.1
+1fqr;A;S;+3.1
+5a25;A;S;+3.1
+3ni5;A;S;+3.1
+3k7k;A;S;+3.1
+6g4t;A;S;+3.1
+3r16;A;K;+3.1
+4fvn;A;S;+3.1
+1fr4;A;S;+3.1
+5wlr;A;K;+3.1
+1cah;A;S;+3.1
+5jmz;A;S;+3.1
+3v3i;B;S;+3.1
+6d1l;A;K;+3.1
+1okn;A;S;+3.1
+4q7w;A;S;+3.1
+3vbd;A;K;+3.1
+5jeh;B;K;+3.1
+5amg;A;S;+3.1
+4q90;A;K;+3.1
+1uga;A;S;+3.1
+2nns;A;K;+3.1
+4hu1;A;S;+3.1
+5e2k;A;S;+3.1
+1zsb;A;S;+3.1
+3myq;A;K;+3.1
+4n16;A;S;+3.1
+3m1q;A;K;+3.1
+5tuo;A;K;+3.1
+2eu2;A;K;+3.1
+3t82;A;S;+3.1
+4jsz;A;S;+3.1
+4e3f;A;K;+3.1
+3q3q;A;S;+3.1
+3m2y;A;S;+3.1
+2wej;A;K;+3.1
+3k2f;A;S;+3.1
+3kig;A;S;+3.1
+3d9z;A;S;+3.1
+2q38;A;S;+3.1
+2osm;A;S;+3.1
+2nmx;A;S;+3.1
+1ca3;A;S;+3.1
+3rj7;A;S;+3.1
+3k34;A;K;+3.1
+4e3g;A;K;+3.1
+2x7t;A;K;+3.1
+3rld;A;S;+3.1
+6g9u;A;S;+3.1
+2ili;A;K;+3.1
+5wgp;A;S;+3.1
+5fl4;A;S;+3.1
+5eoi;A;S;+3.1
+4q7s;A;S;+3.1
+5ekj;A;S;+3.1
+4zwi;A;S;+3.1
+4zwy;A;S;+3.1
+3tvo;X;S;+3.1
+4jsw;A;S;+3.1
+4fik;A;K;+3.1
+3t83;A;S;+3.1
+4hf3;A;S;+3.1
+3lxe;A;S;+3.1
+3u7c;A;S;+3.1
+3u45;X;S;+3.1
+3p55;A;K;+3.1
+1xpz;A;S;+3.1
+3hkt;A;S;+3.1
+3p4v;A;S;+3.1
+3l14;A;S;+3.1
+1ugb;A;S;+3.1
+3oil;A;S;+3.1
+5vpu;A;S;+3.1
+2nwz;A;K;+3.1
+3dvc;A;S;+3.1
+1cnc;A;S;+3.1
+1lg6;A;S;+3.1
+3v3g;B;S;+3.1
+3uyn;A;K;+3.1
+5t71;A;K;+3.1
+3hfp;A;S;+3.1
+4q8x;A;S;+3.1
+2nn1;A;S;+3.1
+1a42;A;S;+3.1
+1cny;A;S;+3.1
+2hfx;A;K;+3.1
+5dsm;A;S;+3.1
+5dsl;A;S;+3.1
+3ml2;A;K;+3.1
+4k1q;A;K;+3.1
+5ty8;A;K;+3.1
+5g0c;A;K;+3.1
+4m2v;A;S;+3.1
+3s77;B;S;+3.1
+1fsr;A;K;+3.1
+6g98;A;K;+3.1
+5yui;A;S;+3.1
+5dvx;A;K;+3.1
+5amd;A;K;+3.1
+4qef;A;K;+3.1
+4hew;A;K;+3.1
+3oku;A;K;+3.1
+1z93;A;K;+3.1
+5n0e;A;S;+3.1
+5llh;A;S;+3.1
+5brw;A;K;+3.1
+5fnk;A;S;+3.1
+6d1m;A;S;+3.1
+1cvd;A;S;+3.1
+3m1w;A;S;+3.1
+5fng;A;S;+3.1
+3uyq;A;S;+3.1
+1bnv;A;S;+3.1
+3m5s;A;S;+3.1
+2weo;A;S;+3.1
+2nn7;A;S;+3.1
+5wex;A;K;+3.1
+5ogo;A;S;+3.1
+4xfw;A;S;+3.1
+4zwx;A;S;+3.1
+4xiw;A;S;+3.1
+4riu;A;S;+3.1
+4q06;A;K;+3.1
+4cq0;A;S;+3.1
+4cnx;A;S;+3.1
+3kwa;A;S;+3.1
+3dcc;A;S;+3.1
+1i9q;A;S;+3.1
+1i9l;A;S;+3.1
+2hkk;A;S;+3.1
+1flj;A;S;+3.1
+2aw1;A;S;+3.1
+1cnw;A;S;+3.1
+1crm;A;S;+3.1
+1fr7;A;S;+3.1
+2hl4;A;S;+3.1
+3mnh;A;S;+3.1
+3p58;A;S;+3.1
+3p5a;A;K;+3.1
+6bc9;A;S;+3.1
+5wg7;A;S;+3.1
+5mjn;A;S;+3.1
+5jg3;B;S;+3.1
+5je7;B;K;+3.1
+5jeg;B;S;+3.1
+5j8z;A;S;+3.1
+5ekm;A;K;+3.1
+4y0j;A;S;+3.1
+4z1j;A;K;+3.1
+5byi;A;S;+3.1
+5c8i;A;S;+3.1
+4zx0;A;S;+3.1
+3oys;A;K;+3.1
+4rfd;A;S;+3.1
+4q0l;A;S;+3.1
+4l5w;A;S;+3.1
+4itp;A;K;+3.1
+4cac;A;S;+3.1
+3tvn;X;S;+3.1
+4hez;A;S;+3.1
+3rg3;A;S;+3.1
+3t84;A;S;+3.1
+3oim;A;S;+3.1
+3rg4;A;S;+3.1
+3rge;A;S;+3.1
+3p3h;A;S;+3.1
+3oy0;A;S;+3.1
+2nxr;A;S;+3.1
+3dvb;A;K;+3.1
+1ydb;A;S;+3.1
+1tg3;A;S;+3.1
+2pow;A;K;+3.1
+2nxs;A;S;+3.1
+1yo1;A;S;+3.1
+1cvc;A;S;+3.1
+1hec;A;S;+3.1
+1teu;X;S;+3.1
+1tg9;A;S;+3.1
+1lzv;A;S;+3.1
+1rze;A;S;+3.1
+1kwr;A;S;+3.1
+1caj;A;S;+3.1
+1cil;A;S;+3.1
+6b4d;A;S;+3.1
+1cam;A;S;+3.1
+1cva;A;S;+3.1
+5n0d;A;S;+3.1
+5jqt;A;S;+3.1
+5zxw;A;S;+3.1
+5lla;A;S;+3.1
+5ll5;A;S;+3.1
+5gmm;A;S;+3.1
+5e28;A;S;+3.1
+4yvy;A;S;+3.1
+4qjx;A;S;+3.1
+4knm;A;S;+3.1
+4lp6;A;S;+3.1
+4knn;A;K;+3.1
+4kuw;A;S;+3.1
+3n4b;A;S;+3.1
+3mdz;A;S;+3.1
+1xeg;A;S;+3.1
+3sax;A;K;+3.1
+4qsa;A;K;+3.1
+4qiy;A;S;+3.1
+4pzh;A;S;+3.1
+4q6e;A;S;+3.1
+3s8x;A;K;+3.1
+4ht0;A;S;+3.1
+2geh;A;S;+3.1
+1ccu;A;S;+3.1
+1uge;A;S;+3.1
+5thn;A;S;+3.1
+1bnm;A;S;+3.1
+1cim;A;S;+3.1
+2h15;A;S;+3.1
+3n3j;A;S;+3.1
+4yxo;A;S;+3.1
+4yyt;A;S;+3.1
+4ruy;A;S;+3.1
+8ca2;A;S;+3.1
+3da2;A;S;+3.1
+6got;A;K;+3.1
+6fag;A;S;+3.1
+6ex1;A;S;+3.1
+6faf;A;S;+3.1
+6f3b;A;S;+3.1
+2efv;A;K;-3.1
+2nwp;A;S;+3.1
+1h4n;A;S;+3.1
+3pjj;A;S;+3.1
+3s73;B;K;+3.1
+1g4j;A;S;+3.1
+2nwy;A;S;+3.1
+1kwq;A;S;+3.1
+1avn;A;S;+3.1
+5yuj;A;K;+3.1
+1ca2;A;S;+3.1
+4fu5;A;S;+3.1
+4q99;A;S;+3.1
+4q87;A;S;+3.1
+4q83;A;S;+3.1
+4kv0;A;S;+3.1
+4q9y;A;S;+3.1
+2osf;A;K;+3.1
+4fvo;A;S;+3.1
+5l9e;A;S;+3.1
+3zp9;A;S;+3.1
+4qjo;A;S;+3.1
+4qjp;A;S;+3.1
+4hba;A;S;+3.1
+4l5u;A;S;+3.1
+4kap;A;K;+3.1
+4kuv;A;S;+3.1
+5n24;A;S;+3.1
+4rfc;A;S;+3.1
+5sz6;A;S;+3.1
+4e49;A;S;+3.1
+1i9p;A;S;+3.1
+1g0e;A;K;+3.1
+1i9m;A;S;+3.1
+1ydc;A;S;+3.1
+2ez7;A;K;+3.1
+2fou;A;S;+3.1
+1i91;A;S;+3.1
+1if9;A;K;+3.1
+1if7;A;K;+3.1
+1if5;A;S;+3.1
+2ca2;A;S;+3.1
+1g1d;A;S;+3.1
+1hca;A;S;+3.1
+1i9o;A;S;+3.1
+2cbc;A;K;+3.1
+1hed;A;S;+3.1
+1g4o;A;S;+3.1
+1v9e;A;S;+3.1
+1i8z;A;S;+3.1
+2cbb;A;S;+3.1
+1i90;A;S;+3.1
+1heb;A;S;+3.1
+1g52;A;S;+3.1
+1if8;A;S;+3.1
+4lu3;A;K;+3.1
+1jd0;A;S;+3.1
+2fmg;A;S;+3.1
+1cnx;A;S;+3.1
+6ca2;A;S;+3.1
+1thk;A;K;+3.1
+3ca2;A;S;+3.1
+3tmj;A;S;+3.1
+3b4f;A;S;+3.1
+3rz0;B;K;+3.1
+3t85;A;K;+3.1
+2o4z;A;S;+3.1
+3f8e;A;S;+3.1
+3czv;A;K;+3.1
+3efi;A;S;+3.1
+3dbu;A;S;+3.1
+3kok;A;S;+3.1
+3eft;A;S;+3.1
+1yda;A;S;+3.1
+3okv;A;K;+3.1
+2weg;A;S;+3.1
+3ffp;X;S;+3.1
+3v5g;A;S;+3.1
+3sbi;A;K;+3.1
+3bl0;A;K;+3.1
+4cnw;A;S;+3.1
+2q1q;A;S;+3.1
+3d0n;A;S;+3.1
+6h29;A;S;+3.1
+1bcd;A;S;+3.1
+1rza;A;S;+3.1
+1czm;A;S;+3.1
+9ca2;A;S;+3.1
+1cin;A;S;+3.1
+1can;A;S;+3.1
+1cra;A;S;+3.1
+1bic;A;S;+3.1
+1rzc;A;S;+3.1
+1rzd;A;S;+3.1
+1jv0;A;S;+3.1
+2fos;A;K;+3.1
+1ugf;A;S;+3.1
+1kop;A;S;+3.1
+1fqm;A;K;+3.1
+1lg5;A;S;+3.1
+1lug;A;S;+3.1
+2hd6;A;S;+3.1
+1xev;A;K;+3.1
+1tbt;X;S;+3.1
+2nxt;A;K;+3.1
+1yo2;A;S;+3.1
+3d8w;A;S;+3.1
+3dd8;A;S;+3.1
+2wd2;A;S;+3.1
+2x7u;A;S;+3.1
+3pyk;A;S;+3.1
+3u47;A;S;+3.1
+3c75;L;K;
+4riv;A;S;+3.1
+1f2w;A;S;+3.1
+5dsn;A;S;+3.1
+5dsk;A;S;+3.1
+5kgl;A;S;+3.1
+5ljt;A;S;+3.1
+5gmn;A;K;+3.1
+2ax2;A;K;+3.1
+2abe;A;S;+3.1
+5l70;A;K;+3.1
+4cnd;B;K;+3.1
+5nrl;S;K;-3.1
+5gsl;A;S;+3.1
+5o9z;y;K;-3.1
+3tb3;A;S;-3.1 -3.1
+3bjx;A;K;+3.1 4.1 +6.1
+6d05;A;S;+3.1 +3.1 +3.1
+5xls;A;S;+3.1 +3.1 +3.1 +3.1 +3.1
+5znm;A;S;+3.1 +3.1 +3.1 +3.1
+6d04;A;S;+3.1 +3.1 +3.1
+6d03;A;S;+3.1 +3.1
+6g9i;A;S;+3.1 +3.1
+5xar;A;S;+3.1 +3.1 +3.1
+5xat;A;S;+3.1 +3.1 +3.1 +3.1
+5vm8;A;K;+3.1
+5tj3;A;S;+3.1
+5ude;F;S;+3.1
+5udc;A;S;+3.1
+5tok;A;S;+3.1
+5ugh;A;K;+3.1 +3.1
+5viq;A;K;4.1 4.1
+5viv;A;K;4.1 4.1
+6gb2;Bw;K;-3.1 -3.1 -3.1 -3.1
+5a19;A;K;+3.1
+3fr8;A;S;4.1 +3.1
+1cng;A;K;+3.1
+3mhl;A;K;+3.1
+3m5e;A;K;+3.1
+3m40;A;K;+3.1
+3m3x;A;K;+3.1
+3m67;A;K;+3.1
+3mho;A;S;+3.1
+3m98;A;K;+3.1
+3mhi;A;S;+3.1
+3m2n;A;K;+3.1
+3mhm;A;K;+3.1
+3m96;A;K;+3.1
+3c7p;A;S;+3.1
+3po6;A;K;+3.1
+1hva;A;K;+3.1
+2w2j;A;K;+3.1
+3bet;A;K;+3.1
+3d93;A;S;+3.1
+3caj;A;K;+3.1
+3ibu;A;K;+3.1
+3ibi;A;S;+3.1
+3ibn;A;K;+3.1
+3iai;A;S;+3.1
+3ibl;A;K;+3.1
+4bf6;A;S;+3.1
+5dsq;A;K;+3.1
+5dso;A;K;+3.1
+1fsn;A;K;+3.1
+1fqn;A;S;+3.1
+2cbe;A;K;+3.1
+3rz5;A;K;+3.1
+3rz7;A;K;+3.1
+3s76;A;K;+3.1
+3rz8;A;S;+3.1
+3ryz;A;S;+3.1
+3ryy;A;S;+3.1
+1zsa;A;K;+3.1
+1cvf;A;S;+3.1
+1cnh;A;K;+3.1
+5c5k;A;K;4.1 4.1
+5g2v;A;S;+3.1
+4xtq;A;K;4.1 4.1
+4twm;A;K;+3.1
+4twl;A;K;+3.1
+5mg0;A;K;4.1 4.1
+5a1g;A;K;+3.1
+5g2t;A;S;+3.1
+5evm;A;S;+3.1
+5dsp;A;S;+3.1
+5dsr;A;K;+3.1
+4rq9;A;K;4.1 4.1
+1j85;A;K;+3.1
+6emu;A;K;+3.1
+5zjv;A;S;+3.1
+6fht;A;K;4.1 4.1
+5nfx;A;K;4.1 4.1
+5nm3;A;K;4.1
+5nwn;A;K;4.1 4.1
+5nva;A;S;+3.1 4.1 +3.1
+5zd5;D;K;-3.1
+6b1v;A;S;+3.1
+6fny;A;S;+3.1
+5wtu;A;K;-3.1
+5y2r;A;K;+3.1
+5y2s;A;K;+3.1
+5msb;A;K;+3.1
+5nxg;A;K;+3.1
+5nxi;A;K;+3.1
+5nxo;A;K;+3.1
+5nxp;A;K;+3.1
+5nxv;A;K;+3.1
+5nxw;A;K;+3.1
+5ny1;A;K;+3.1
+5ny3;A;K;+3.1
+5ny6;A;K;+3.1
+5nya;A;K;+3.1
+5olb;A;S;+3.1
+5ohi;A;S;+3.1
+5yud;A;K;+3.1
+5wyr;A;K;+3.1
+5wyq;A;K;+3.1
+5m78;A;K;+3.1
+5w23;A;S;+3.1
+5m4s;A;K;+3.1 +3.1
+5o95;A;K;+3.1
+5ylf;A;S;+3.1
+5o96;A;K;+3.1
+5yle;A;S;+3.1
+5ylc;A;S;+3.1
+5too;A;S;+3.1
+5tpq;A;S;+3.1
+6awq;A;S;+3.1 4.1 +3.1
+6awp;A;S;+3.1 4.1 +3.1
+6awo;A;S;+3.1 4.1 +3.1
+6awn;A;S;+3.1 4.1 +3.1
+5oql;e;K;+3.1
+5njb;B;S;+3.1
+5nja;B;S;+3.1
+5nj9;A;S;+3.1
+5nja;A;S;+3.1
+5nj5;A;S;+3.1
+5njb;A;S;+3.1
+5nj5;B;S;+3.1
+5nj9;B;S;+3.1
+5veo;A;S;+3.1
+5tv3;A;K;+3.1
+5t75;A;K;+3.1
+5oom;s;K;-3.1
+5tt8;A;K;+3.1
+5mx9;A;S;+3.1
+5m0s;A;S;+3.1
+5l0z;A;K;+3.1
+5kzk;A;K;+3.1
+5kww;F;S;+3.1
+5ku6;A;K;+3.1
+5lle;A;K;+3.1
+5llg;A;K;+3.1
+5llo;A;K;+3.1
+5lln;A;K;+3.1
+5llp;A;K;+3.1
+5xas;A;S;+3.1
+5x9r;A;S;+3.1
+5gra;A;K;+3.1
+5vik;A;K;4.1
+5g2u;A;S;+3.1
+5udd;A;S;+3.1
+5twj;A;K;+3.1
+5jnc;A;K;+3.1
+5twk;A;K;+3.1
+5thj;A;K;+3.1
+5jn8;A;K;+3.1
+5jna;A;K;+3.1
+5jn3;A;K;+3.1
+5wyk;E1;K;+3.1
+5ipz;A;K;+3.1
+5udy;A;S;+3.1
+5tcd;A;S;+3.1
+5l6k;A;K;+3.1
+5fgn;A;S;+3.1
+5lqw;Y;K;-3.1
+5sz7;A;K;+3.1
+5sz0;A;K;+3.1
+5sz1;A;K;+3.1
+5sz2;A;K;+3.1
+5sz3;A;K;+3.1
+5sz4;A;K;+3.1
+5m8a;A;S;4.1 +3.1 +3.1
+5m8j;A;S;4.1 +3.1 +3.1
+5m8k;A;S;4.1 +3.1 +3.1
+5m87;A;S;4.1 +3.1 +3.1
+5h9u;A;K;+3.1 +3.1
+5h5f;A;K;+3.1
+5h5e;A;K;+3.1
+5fql;A;S;+3.1
+5gov;A;S;+3.1
+5gs6;A;S;+3.1 +3.1
+5grr;A;S;+3.1
+5lrm;A;S;+3.1
+5jir;A;K;+3.1
+5lbr;A;K;4.1 4.1
+5l8m;A;K;4.1 4.1
+5k5b;A;K;4.1 4.1
+5ife;D;K;-3.1
+5gm8;A;K;+3.1
+5gmc;A;K;+3.1
+5gmb;A;K;+3.1
+5gm6;J;K;-3.1
+5k6c;F;S;+3.1
+5t8s;A;K;+3.1
+5t8t;A;K;+3.1
+5drs;A;K;+3.1
+5cjl;A;K;+3.1
+5dog;A;K;+3.1
+5doh;A;K;+3.1
+5khu;T;S;+3.1
+5syb;A;K;-3.1
+5kel;A;S;+3.1
+5kem;A;S;+3.1
+5ken;A;S;+3.1
+5k4p;A;S;+3.1
+5k6b;F;S;+3.1
+5j4i;A;S;+3.1 4.1
+5j4n;A;S;+3.1 4.1 +3.1
+5e5u;A;S;+3.1
+5e5r;A;K;+3.1
+5i5l;A;K;4.1
+5hsq;A;K;4.1
+5jpq;e;K;+3.1
+5co4;A;K;+3.1
+5ew5;A;S;+3.1
+5jnx;C;S;+3.1
+5ijq;A;S;+3.1
+5ijs;A;S;+3.1
+5jag;A;S;+3.1 4.1
+5jaf;A;S;+3.1 4.1
+5jae;A;S;+3.1 4.1 +3.1
+5c66;A;S;+3.1
+5g03;A;K;+3.1
+5hwy;A;K;+3.1
+5apg;A;K;+3.1
+5ap8;A;K;+3.1
+5cfy;A;S;+3.1
+5dlw;A;S;+3.1
+5dlv;A;S;+3.1
+5aj9;A;S;+3.1
+4yqt;A;K;+3.1
+4yqs;A;K;+3.1
+4yqr;A;K;+3.1
+4ypx;A;K;+3.1
+5hj3;C;S;+3.1
+5egh;A;S;+3.1
+5ege;A;S;+3.1
+5a1i;A;K;+3.1
+4z1w;A;K;4.1 4.1
+4zrr;A;K;4.1 4.1
+4x3l;A;K;+3.1
+5f1b;A;S;+3.1
+5fai;A;K;+3.1
+5c77;A;K;+3.1
+5c74;A;K;+3.1
+5a7y;A;K;+3.1
+5a7z;A;K;+3.1
+5a7t;A;K;+3.1
+4yvk;A;K;+3.1
+4yvj;A;K;+3.1
+4yvi;A;K;+3.1
+4yvh;A;K;+3.1
+4yvg;A;K;+3.1
+4wkk;A;K;4.1
+4xbo;A;K;+3.1
+5e4r;A;K;+3.1 4.1
+4x3m;A;K;+3.1
+4yqd;A;K;+3.1
+4xpb;A;S;+3.1 4.1 +3.1
+4xpa;A;S;+3.1 4.1 +3.1
+4xp6;A;S;+3.1 4.1 +3.1
+4xnx;A;S;+3.1 4.1 +3.1
+4xnu;A;S;+3.1 4.1 +3.1
+4yzf;A;S;+3.1 3.1 3.1
+5da0;A;S;+3.1 +3.1 +3.1 +3.1
+5a42;A;S;-3.1 -3.1
+5c50;B;S;+3.1
+4zg6;A;S;-3.1
+4zg7;A;S;+3.1
+4zyp;A;S;+3.1
+4r6l;A;K;4.1 4.1
+4y5f;A;K;4.1
+4y3i;A;K;4.1
+4cxs;A;S;+3.1
+4xpf;A;S;+3.1 4.1
+4xpg;A;S;+3.1 4.1
+4xph;A;S;+3.1 4.1
+4xpt;A;S;+3.1 4.1
+4xp9;C;S;+3.1 4.1
+4xp5;A;S;+3.1 4.1
+4xp4;A;S;+3.1 4.1
+4xp1;A;S;+3.1 4.1
+4qax;A;S;+3.1
+4yr1;A;S;+3.1
+4cys;A;S;+3.1
+4cyr;A;S;+3.1
+4cxk;A;S;+3.1
+4cxu;A;S;+3.1
+4wlr;A;K;-5.2 -3.1 -3.1
+4wlq;A;K;-5.2 -3.1 -3.1
+4wlp;A;K;-5.2 -3.1 -3.1
+4uf6;A;K;-5.2 -3.1 -3.1
+4uf5;A;K;-5.2 -3.1 -3.1
+4uem;A;K;-5.2 -3.1 -3.1
+4uel;A;K;-5.2 -3.1 -3.1
+3x2d;A;S;+3.1
+4wsg;A;S;+3.1
+4nwx;A;S;+3.1
+4nwj;A;S;+3.1
+4tzo;A;S;+3.1
+4ws9;A;K;+3.1
+4wgv;A;S;+3.1 +3.1
+4wgw;A;S;+3.1 +3.1
+4cbp;A;S;-3.1
+4rg1;A;K;+3.1
+1wog;A;S;+3.1
+4x2s;A;S;+3.1
+3j7y;5;K;-3.1 -3.1 -3.1 -3.1
+3j7y;s;K;-3.1 -3.1 -3.1 -3.1
+4tn0;A;S;+3.1
+4v1a;w;K;-3.1 -3.1 -3.1 -3.1
+4v1a;a;K;-3.1 -3.1 -3.1 -3.1
+1n2m;A;S;+3.1
+2qqd;C;S;+3.1
+2xq2;B;S;+3.1 4.1 +3.1
+2fg7;C;K;+3.1
+3s97;A;K;+3.1
+3kld;B;K;+3.1
+4etq;C;K;+3.1
+2v64;A;S;+3.1
+3bdg;B;S;+3.1
+1ki6;B;S;+3.1
+3gi9;C;S;+3.1 4.1 +3.1
+3pzl;A;S;+3.1 +3.1 +3.1
+3niq;A;S;+3.1 +3.1 +3.1
+3nip;A;S;+3.1 +3.1 +3.1
+1woi;A;S;+3.1 +3.1 +3.1
+1gq6;A;S;+3.1 +3.1 +3.1
+1gq7;A;S;+3.1 +3.1 +3.1
+4aez;B;S;+3.1
+1woh;A;S;+3.1
+3wav;A;S;+3.1
+3waw;A;S;+3.1
+3wax;A;S;+3.1
+3way;A;S;+3.1
+2xrg;A;S;+3.1
+3nkm;A;S;+3.1
+3nko;A;S;+3.1
+3nkp;A;S;+3.1
+4q0j;A;K;4.1 4.1
+1vlf;M;S;+3.1
+1vle;M;S;+3.1
+1ti2;A;S;+3.1
+1ti4;A;S;+3.1
+3nkr;A;S;+3.1
+4o8g;A;K;4.1 4.1
+4djk;A;S;+3.1 4.1 +3.1
+4dji;A;S;+3.1 4.1 +3.1
+3csy;I;S;+3.1
+4us3;A;S;+3.1 4.1 +3.1
+4us4;A;S;+3.1 4.1 +3.1
+2m9q;A;S;-3.1 -3.1 -3.1
+2m9p;A;S;-3.1 -3.1 -3.1
+3v5s;A;K;+3.1
+4cng;A;K;+3.1
+4cnf;A;K;+3.1
+4cne;A;K;+3.1
+4cnd;A;K;+3.1
+4uop;A;S;+3.1
+4ig7;A;K;-5.2 -3.1 -3.1
+3s88;I;S;+3.1
+3ve0;I;S;+3.1
+4oye;A;S;+3.1 +3.1
+3nkn;A;S;+3.1
+4bv6;A;S;-3.1
+4j3c;A;K;+3.1
+1pgi;A;S;+3.1
+4uor;A;S;+3.1
+4uoo;A;S;+3.1
+2b9b;A;S;+3.1
+3cwo;X;K;+3.1
+3nou;C;K;4.1 4.1
+3not;C;K;4.1 4.1
+3nop;C;K;4.1 4.1
+3p12;A;S;+3.1
+3ihr;A;K;-5.2 -3.1 -3.1
+2ga3;A;S;+3.1
+4jby;A;S;+3.1
+4jbx;A;S;+3.1
+4ivr;A;S;+3.1
+4ivq;A;S;+3.1
+4ivp;A;S;+3.1
+3m8y;A;S;+3.1
+3m8w;A;S;+3.1
+4lrb;A;S;+3.1
+4lr9;A;S;+3.1
+4lra;A;S;+3.1
+4lr7;A;S;+3.1
+3uo0;A;S;+3.1
+3uny;A;S;+3.1
+3un2;A;S;+3.1
+4mme;A;S;+3.1 4.1 +3.1
+4mmd;A;S;+3.1 4.1 +3.1
+4mmc;A;S;+3.1 4.1 +3.1
+4mma;A;S;+3.1 4.1 +3.1
+4mm8;A;S;+3.1 4.1 +3.1
+4mm6;A;S;+3.1 4.1 +3.1
+4mm9;A;S;+3.1 4.1 +3.1
+4mm4;A;S;+3.1 4.1 +3.1
+4mm5;A;S;+3.1 4.1 +3.1
+4hmk;A;S;+3.1 4.1 +3.1
+4hod;A;S;+3.1 4.1 +3.1
+4fy0;A;S;+3.1 4.1 +3.1
+3uso;A;S;+3.1 4.1 +3.1
+3usp;A;S;+3.1 4.1 +3.1
+3usm;A;S;+3.1 4.1 +3.1
+3usk;A;S;+3.1 4.1 +3.1
+3usl;A;S;+3.1 4.1 +3.1
+3usi;A;S;+3.1 4.1 +3.1
+3usj;A;S;+3.1 4.1 +3.1
+3usg;A;S;+3.1 4.1 +3.1
+3tt3;A;S;+3.1 4.1 +3.1
+3tt1;A;S;+3.1 4.1 +3.1
+4jal;A;K;+3.1
+2len;A;K;-5.2 -3.1 -3.1
+4mcc;A;K;+3.1
+4mcb;A;K;+3.1
+4l2z;A;K;+3.1
+4m8j;A;S;+3.1 4.1 +3.1
+4k0b;A;K;+3.1
+3axz;A;K;+3.1
+4ig6;A;K;+3.1
+4hpv;A;K;+3.1
+4h3y;A;K;+3.1
+3kzm;A;K;+3.1
+3kbc;A;S;+3.1
+4kjg;A;S;+3.1
+4lqy;A;S;+3.1
+4kay;A;S;+3.1
+4jwg;A;K;+3.1
+4gue;A;S;+3.1
+4ain;A;S;+3.1 4.1 +3.1
+4doj;A;S;+3.1 4.1 +3.1
+4fdj;A;S;+3.1
+4el9;A;S;+3.1
+3v8f;A;S;+3.1
+3v8g;A;S;+3.1
+3tv9;A;S;+3.1
+4izm;A;S;+3.1 +3.1
+4gtx;A;S;+3.1
+4gty;A;S;+3.1
+4gtz;A;S;+3.1
+3s7p;A;K;4.1 4.1
+3s7n;A;K;4.1 4.1
+3rdp;A;S;+3.1
+3tx0;A;S;+3.1
+3twz;A;S;+3.1
+1ogf;A;S;+3.1
+1oge;A;S;+3.1
+4oyf;A;S;+3.1
+3so4;A;K;+3.1
+3szz;A;S;+3.1
+3t00;A;S;+3.1
+3t01;A;S;+3.1
+4oql;A;S;+3.1
+4oqx;A;S;+3.1
+4oqn;A;S;+3.1
+4oqm;A;S;+3.1
+3s7o;A;K;4.1 4.1
+3zq5;A;K;4.1 4.1
+3qe7;A;S;+3.1 4.1 +3.1 +3.1 +3.1
+4l4q;A;K;+3.1
+4n2x;A;K;+6.1 +6.1 4.1 +3.1
+1uch;A;K;-5.2 -3.1 -3.1
+3wj8;A;K;+6.1 +6.1 4.1 +3.1
+1alh;A;S;+3.1
+4q0i;A;K;4.1 4.1
+4q0h;A;K;4.1 4.1
+4cqh;A;K;4.1 4.1
+4jkj;A;K;-5.2 -3.1 -3.1
+4jkj;B;K;-5.2 -3.1 -3.1
+4pzk;B;K;+3.1
+4pzk;A;K;+3.1
+4p6h;C;S;+3.1
+4p6h;B;S;+3.1
+4p6h;A;S;+3.1
+4p3j;C;S;+3.1
+4p3j;B;S;+3.1
+4p3j;A;S;+3.1
+4p1a;C;S;+3.1
+4p1a;B;S;+3.1
+4p1a;A;S;+3.1
+4p19;C;S;+3.1
+4p19;B;S;+3.1
+4p19;A;S;+3.1
+4oyg;F;S;+3.1
+4oyg;A;S;+3.1
+4ndn;A;K;+3.1
+4ndn;B;K;+3.1
+4ndn;C;K;+3.1
+4ndn;D;K;+3.1
+4oyg;E;S;+3.1
+4oyg;D;S;+3.1
+4oyg;C;S;+3.1
+4oyg;B;S;+3.1
+4ktv;D;K;+3.1
+4ktv;C;K;+3.1
+4ktv;B;K;+3.1
+4ktv;A;K;+3.1
+4ktt;D;K;+3.1
+4ktt;C;K;+3.1
+4ktt;B;K;+3.1
+4ktt;A;K;+3.1
+4d1d;A;S;+3.1 4.1 +3.1
+4d1c;A;S;+3.1 4.1 +3.1
+4d1b;A;S;+3.1 4.1 +3.1
+4d1a;A;S;+3.1 4.1 +3.1
+4llh;A;S;+3.1 4.1 +3.1
+4llh;B;S;+3.1 4.1 +3.1
+4llh;C;S;+3.1 4.1 +3.1
+4o01;D;K;4.1 4.1
+4o01;A;K;4.1 4.1
+4o0p;B;K;4.1 4.1
+4o0p;A;K;4.1 4.1
+4o01;B;K;4.1 4.1
+4o01;C;K;4.1 4.1
+4chj;A;K;4.1
+4miv;A;S;+3.1
+4miv;B;S;+3.1
+4miv;C;S;+3.1
+4miv;D;S;+3.1
+4miv;E;S;+3.1
+4miv;F;S;+3.1
+4miv;G;S;+3.1
+4miv;H;S;+3.1
+4mhx;A;S;+3.1
+4mhx;B;S;+3.1
+1uak;A;K;+3.1
+1aja;A;S;+3.1
+1ajb;A;S;+3.1
+1ajc;A;S;+3.1
+1ajd;A;S;+3.1
+1ali;A;S;+3.1
+1alj;A;S;+3.1
+1alk;A;S;+3.1
+1ani;A;S;+3.1
+1anj;A;S;+3.1
+1auk;A;S;+3.1
+1b8j;A;S;+3.1
+1by7;A;K;+3.1
+1cmx;A;K;-3.1
+1e1z;P;S;+3.1
+1e2h;A;S;+3.1
+1e2i;A;S;+3.1
+1e2j;A;S;+3.1
+1e2k;A;S;+3.1
+1e2l;A;S;+3.1
+1e2m;A;S;+3.1
+1e2n;A;S;+3.1
+1e2p;A;S;+3.1
+1e2s;P;S;+3.1
+1e33;P;S;+3.1
+1e3c;P;S;+3.1
+1ed8;A;S;+3.1
+1ed9;A;S;+3.1
+1ei6;A;S;+3.1
+1ejj;A;S;+3.1
+1eku;A;K;+3.1
+1elx;A;S;+3.1
+1ely;A;S;+3.1
+1elz;A;S;+3.1
+1eqj;A;S;+3.1
+1ew2;A;S;+3.1
+1ew8;A;S;+3.1
+1ew9;A;S;+3.1
+1f48;A;K;+3.1
+1fsu;A;S;+3.1
+1fug;A;K;+3.1
+1gv4;A;S;-3.1
+1gz0;A;K;+3.1
+1hdh;A;S;+3.1
+1hjk;A;S;+3.1
+1hqa;A;S;+3.1
+1hyn;P;S;-3.1
+1ipa;A;K;+3.1
+1jch;A;S;+3.1 +3.1 +3.1 +3.1
+1js1;X;K;+3.1
+1k3r;A;K;+3.1
+1k7h;A;S;+3.1
+1kh4;A;S;+3.1
+1kh5;A;S;+3.1
+1kh7;A;S;+3.1
+1kh9;A;S;+3.1
+1khj;A;S;+3.1
+1khk;A;S;+3.1
+1khl;A;S;+3.1
+1khn;A;S;+3.1
+1ki2;A;S;+3.1
+1ki3;A;S;+3.1
+1ki4;A;S;+3.1
+1ki6;A;S;+3.1
+1ki7;A;S;+3.1
+1ki8;A;S;+3.1
+1kim;A;S;+3.1
+1lm4;A;S;-3.1
+1lns;A;S;+3.1 +3.1 +3.1
+1mxa;A;K;+3.1
+1mxb;A;K;+3.1
+1mxc;A;K;+3.1
+1mxi;A;K;+3.1
+1n2k;A;S;+3.1
+1n2l;A;S;+3.1
+1ns5;A;K;+3.1
+1nxz;A;K;+3.1
+1o6d;A;K;+3.1
+1o90;A;K;+3.1
+1o92;A;K;+3.1
+1o93;A;K;+3.1
+1o98;A;S;+3.1
+1o99;A;S;+3.1
+1o9t;A;K;+3.1
+1of1;A;S;+3.1
+1ogc;A;S;+3.1
+1ogd;A;S;+3.1
+1osn;A;S;+3.1
+1p49;A;S;+3.1
+1p6x;A;S;+3.1
+1p72;A;S;+3.1
+1p73;A;S;+3.1
+1p75;A;S;+3.1
+1p7c;A;S;+3.1
+1p7l;A;K;+3.1
+1p9p;A;K;+3.1
+1qhi;A;S;+3.1
+1qm4;A;K;+3.1
+1rg9;A;K;+3.1
+1rh1;A;S;+3.1 +3.1 +3.1 +3.1
+1shn;A;S;+3.1
+1shq;A;S;+3.1
+1ti6;A;S;+3.1
+1to0;A;K;+3.1
+1uaj;A;K;+3.1
+1ual;A;K;+3.1
+1uam;A;K;+3.1
+1ura;A;S;+3.1
+1urb;A;S;+3.1
+1v2x;A;K;+3.1
+1v6z;A;K;+3.1
+1vh0;A;K;+3.1
+1vhk;A;K;+3.1
+1vhy;A;K;+3.1
+1vl4;A;S;+3.1
+1vpb;A;S;+3.1
+1vtk;A;S;+3.1
+1x7o;A;K;+3.1
+1x7p;A;K;+3.1
+1xd3;A;K;-5.2 -3.1 -3.1
+1xfh;A;S;+3.1 +3.1
+1xjd;A;S;-3.1
+1xra;A;K;+3.1
+1xrb;A;K;+3.1
+1xrc;A;K;+3.1
+1y6v;A;S;+3.1
+1y7a;A;S;+3.1
+1y7w;A;K;+3.1
+1yh1;A;K;+3.1
+1yrl;A;K;4.1 +3.1
+1zeb;A;S;+3.1
+1zed;A;S;+3.1
+1zef;A;S;+3.1
+1zjr;A;K;+3.1
+1znc;A;K;+3.1
+1ztu;A;K;4.1 4.1
+2a65;A;S;+3.1 4.1 +3.1
+2anh;A;S;+3.1
+2axc;A;S;+3.1 +3.1 +3.1 +3.1
+2b5u;A;S;+3.1 +3.1 +3.1 +3.1
+2cfa;B;S;-3.1
+2cx8;A;K;+3.1
+2d1g;A;S;+3.1
+2egv;A;K;+3.1
+2egw;A;K;+3.1
+2etl;A;K;-5.2 -3.1 -3.1
+2fg6;C;K;+3.1
+2fg7;X;K;+3.1
+2g7m;C;K;+3.1
+2g9y;A;S;+3.1
+2glq;A;S;+3.1
+2gsn;A;S;+3.1
+2gso;A;S;+3.1
+2gsu;A;S;+3.1
+2ha8;A;K;+3.1
+2hfy;A;K;+3.1
+2hjn;A;S;+3.1
+2i6d;A;K;+3.1
+2ify;A;S;+3.1
+2iuc;A;S;+3.1
+2iuc;B;S;+3.1
+2j6b;A;S;+3.1
+2j6c;A;S;+3.1
+2j85;A;S;+3.1
+2jln;A;S;+3.1 4.1 +3.1
+2jlo;A;S;+3.1 4.1 +3.1
+2k0a;A;K;-3.1
+2ki5;A;S;+3.1
+2nwl;A;S;+3.1 +3.1
+2nww;A;S;+3.1 +3.1
+2nwx;A;S;+3.1 +3.1
+2o3a;A;K;+3.1
+2o9b;A;K;4.1 4.1
+2o9c;A;K;4.1 4.1
+2ob5;A;S;+3.1
+2obv;A;K;+3.1
+2ool;A;K;4.1 4.1
+2p02;A;K;+3.1
+2q72;A;S;+3.1 4.1 +3.1
+2qei;A;S;+3.1 4.1 +3.1
+2qmm;A;K;+3.1
+2qwv;A;K;+3.1
+2qzu;A;S;+3.1
+2rh3;A;K;-3.1
+2rh6;A;S;+3.1
+2v3j;A;K;+3.1
+2v3k;A;K;+3.1
+2vea;A;K;4.1 4.1
+2vqr;A;S;+3.1
+2vtk;A;S;+3.1
+2w5q;A;S;+3.1
+2w5r;A;S;+3.1
+2w5s;A;S;+3.1
+2w5t;A;S;+3.1
+2w5v;A;S;+3.1
+2w5w;A;S;+3.1
+2w5x;A;S;+3.1
+2w8d;A;S;+3.1
+2w8s;A;S;+3.1
+2wcu;A;S;+3.1
+2wcv;A;S;+3.1
+2wdt;A;K;-5.2 -3.1 -3.1
+2we6;A;K;-5.2 -3.1 -3.1
+2wit;A;S;+3.1 4.1 +3.1
+2wsw;A;S;+3.1 4.1 +3.1
+2wsx;A;S;+3.1 4.1 +3.1
+2wxz;C;S;+3.1
+2x4i;A;S;+3.1
+2x79;A;S;+3.1 4.1 +3.1
+2x98;A;S;+3.1
+2xq2;A;S;+3.1 4.1 +3.1
+2xr9;A;S;+3.1
+2xtj;A;S;+3.1
+2yfk;A;K;+3.1
+2yy8;A;K;+3.1
+2z0y;A;K;+3.1
+2zkt;A;S;+3.1
+2znc;A;K;+3.1
+3a52;A;S;+3.1
+3a7s;A;K;-5.2 -3.1 -3.1
+3ai9;X;K;+3.1
+3aia;A;K;+3.1
+3b1b;A;K;+3.1
+3b5q;A;S;+3.1
+3bbd;A;K;+3.1
+3bbe;A;K;+3.1
+3bbh;A;K;+3.1
+3bdf;A;S;+3.1
+3bdg;A;S;+3.1
+3bdh;A;S;+3.1
+3c2w;A;K;4.1 4.1
+3cm8;A;S;-3.1
+3cmr;A;S;+3.1
+3dcm;X;K;+3.1
+3dh4;A;S;+3.1 4.1 +3.1
+3dpc;A;S;+3.1
+3dyc;A;S;+3.1
+3e5y;A;K;+3.1
+3e7n;A;S;+3.1
+3ed4;A;S;+3.1
+3ed7;A;K;+3.1
+3en9;A;S;+3.1
+3f0t;A;S;+3.1
+3f3a;A;S;+3.1 4.1 +3.1
+3f3c;A;S;+3.1 4.1 +3.1
+3f3d;A;S;+3.1 4.1 +3.1
+3f3e;A;S;+3.1 4.1 +3.1
+3f48;A;S;+3.1 4.1 +3.1
+3f4i;A;S;+3.1 4.1 +3.1
+3f4j;A;S;+3.1 4.1 +3.1
+3f7b;A;K;+3.1
+3f7u;A;S;+3.1
+3fsg;A;S;+3.1
+3fw3;A;K;+3.1
+3g6o;A;K;4.1 4.1
+3gi8;C;S;+3.1 4.1 +3.1
+3gia;A;S;+3.1 4.1 +3.1
+3gjc;A;S;+3.1 4.1 +3.1
+3gjd;A;S;+3.1 4.1 +3.1
+3gwu;A;S;+3.1 4.1 +3.1
+3gwv;A;S;+3.1 4.1 +3.1
+3gww;A;S;+3.1 4.1 +3.1
+3gyq;A;K;+3.1
+3hfx;A;S;+3.1 4.1 +3.1
+3ibr;A;K;4.1 4.1
+3ic6;A;K;+3.1
+3idd;A;S;+3.1
+3ief;A;K;+3.1
+3ifw;A;K;-5.2 -3.1 -3.1
+3igy;B;S;+3.1
+3igz;B;S;+3.1
+3ilk;A;K;+3.1
+3iml;A;K;+3.1
+3irt;A;K;-5.2 -3.1 -3.1
+3jxf;A;K;+3.1
+3jxg;A;K;+3.1
+3jxh;C;K;+3.1
+3jyw;E;K;+3.1
+3kd8;A;S;+3.1
+3knu;A;K;+3.1
+3kty;A;K;+3.1
+3kvf;A;K;-5.2 -3.1 -3.1
+3kw2;A;K;+3.1
+3kw5;A;K;-5.2 -3.1 -3.1
+3ky7;A;K;+3.1
+3kzc;A;K;+3.1
+3kzk;A;K;+3.1
+3kzn;A;K;+3.1
+3kzo;A;K;+3.1
+3l02;A;K;+3.1
+3l04;A;K;+3.1
+3l05;A;K;+3.1
+3l06;A;K;+3.1
+3l1l;A;S;+3.1 4.1 +3.1
+3l8u;A;K;+3.1
+3lrb;A;S;+3.1 4.1 +3.1
+3lrc;A;S;+3.1 4.1 +3.1
+3lxq;A;S;+3.1
+3m4j;A;K;+3.1
+3m4n;A;K;+3.1
+3m5c;A;K;+3.1
+3m5d;A;K;+3.1
+3m7v;A;S;+3.1
+3m8z;A;S;+3.1
+3mfb;A;S;+3.1
+3mk0;A;S;+3.1
+3mk1;A;S;+3.1
+3mk2;A;S;+3.1
+3mlg;A;K;-3.1
+3mpn;A;S;+3.1 4.1 +3.1
+3mpq;A;S;+3.1 4.1 +3.1
+3mt5;A;K;-3.1
+3mvk;A;S;+3.1
+3n4j;A;K;+3.1
+3n4k;A;K;+3.1
+3ncy;A;S;+3.1 4.1 +3.1
+3nda;A;S;-3.1
+3nhq;A;K;4.1 4.1
+3nk6;A;K;+3.1
+3nk7;A;K;+3.1
+3nkq;A;S;+3.1
+3nvl;A;S;+3.1
+3o0p;A;K;-3.1
+3o7b;A;K;+3.1
+3ob6;A;S;+3.1 4.1 +3.1
+3oii;A;K;+3.1
+3oij;A;K;+3.1
+3oin;A;K;+3.1
+3onp;A;K;+3.1
+3ot9;A;S;+3.1
+3p03;A;S;+3.1 4.1 +3.1
+3p13;A;S;+3.1
+3q98;A;K;+3.1
+3qs4;A;S;+3.1 4.1 +3.1
+3qs5;A;S;+3.1 4.1 +3.1
+3qs6;A;S;+3.1 4.1 +3.1
+3qtd;A;S;+3.1
+3quv;A;K;+3.1
+3rfy;A;S;+3.1
+3rii;A;K;-5.2 -3.1 -3.1
+3ris;A;K;-5.2 -3.1 -3.1
+3rv2;A;K;+3.1
+3s7q;A;K;4.1 4.1
+3s82;A;K;+3.1
+3sig;A;K;+3.1
+3sij;A;K;+3.1
+3szy;A;S;+3.1
+3t02;A;S;+3.1
+3tde;A;K;+3.1
+3tg0;A;S;+3.1
+3tu0;A;S;+3.1 4.1 +3.1
+3ubd;A;S;+3.1
+3ulk;A;K;4.1 +3.1
+3un3;A;S;+3.1
+3un5;A;S;+3.1
+3v5u;A;K;+3.1
+3vtk;A;S;+3.1
+3znc;A;K;+3.1
+4a34;A;S;+3.1
+4b56;A;S;+3.1
+4bin;A;S;+3.1
+4bxw;A;S;-3.1
+4c7r;A;S;+3.1 4.1 +3.1
+4dm9;A;K;-5.2 -3.1 -3.1
+4dz4;A;S;+3.1
+4e04;A;K;4.1 4.1
+4e8b;A;K;+3.1
+4fak;A;K;+3.1
+4fdi;A;S;+3.1
+4fmw;A;K;+3.1
+4fxz;A;S;+3.1 4.1 +3.1
+4gge;A;K;+3.1
+4gtw;A;S;+3.1
+4gw9;A;K;4.1 4.1
+4h3z;A;K;+3.1
+4h6v;A;K;+3.1
+4i6n;A;K;-5.2 -3.1 -3.1
+4ijg;A;K;4.1 4.1
+4j7h;A;S;+3.1
+4jak;A;K;+3.1
+4jwf;A;K;+3.1
+4jwh;A;K;+3.1
+4jwj;A;K;+3.1
+4k1c;A;K;+3.1
+4kav;A;S;+3.1
+4kdz;A;K;+3.1
+4kgn;A;K;+3.1
+4kjd;A;S;+3.1
+4kjr;A;K;+3.1
+4km4;A;S;+3.1
+4kpp;A;K;+3.1
+4ky0;A;S;+3.1
+4ky9;A;S;-3.1
+4l69;A;K;+3.1
+4l7i;A;K;+3.1
+4le5;A;K;+3.1
+4lii;A;S;-3.1
+4lr2;A;S;+3.1
+4lr8;A;S;+3.1
+4lrc;A;S;+3.1
+4lrd;A;S;+3.1
+4lre;A;S;+3.1
+4lrf;A;S;+3.1
+4lrv;A;K;-3.1
+4m48;A;S;+3.1 4.1 +3.1
+4mcd;A;K;+3.1
+4mm7;A;S;+3.1 4.1 +3.1
+4mmb;A;S;+3.1 4.1 +3.1
+4mmf;A;S;+3.1 4.1 +3.1
+4my4;A;S;+3.1
+4n7t;A;S;+3.1
+4o6b;A;S;+3.1
+4o6d;A;K;+3.1
+4o6d;B;K;+3.1
+4odj;A;K;+3.1
+2q6h;A;S;+3.1 4.1 +3.1
+2qb4;A;S;+3.1 4.1 +3.1
+2qju;A;S;+3.1 4.1 +3.1
